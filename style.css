@@ -1,1 +1,16 @@
+body{
+	background-color:#ffffff;	
+}
+.title1{
+	font-family:"papyrus",fantasy;
+	font-size:150px;
+	text-align:center;
+	color:#736325;
+}
+.btn{
+	color:#736325;
+}
 
+.palm{
+	width:100%;
+}
