@@ -10,12 +10,12 @@ $(document).ready(function(){
 		$(".btn3").html("right twice");
 	});
 	$("#answerW").click(function(){
-		$(".quiz1").hide("question 1");
-	}};
+		$(".quiz1").hide();
+	});
 	$("#answerW2").click(function(){
-		$(".quiz1").hide("question 1");
-	}};
+		$(".quiz1").hide();
+	});
 	$("#answerR").click(function(){
-		$(".quiz1").hide("question 1");
-	}};
+		$(".quiz1").hide();
+	});
  });

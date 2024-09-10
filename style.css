@@ -14,14 +14,17 @@ body{
 .btn1{
 	color:#736325;
 	border: 2px solid #736325;
+	display:none;
 }
 .btn2{
 	color:#736325;
 	border: 2px solid #736325;
+	display:none;
 }
 .btn3{
 	color:#736325;
 	border: 2px solid #736325;
+	display:none;
 }
 
 .palm{
