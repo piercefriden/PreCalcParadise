@@ -9,8 +9,33 @@ body{
 }
 .btn{
 	color:#736325;
+	border: 2px solid #736325;
+}
+.btn1{
+	color:#736325;
+	border: 2px solid #736325;
+}
+.btn2{
+	color:#736325;
+	border: 2px solid #736325;
+}
+.btn3{
+	color:#736325;
+	border: 2px solid #736325;
 }
 
 .palm{
 	width:100%;
+}
+.quiz1{
+	font-family:"papyrus",fantasy;
+	font-size:100px;
+	text-align:center;
+	color:#736325;
+}
+.question{
+	font-family:"papyrus",fantasy;
+	font-size:50px;
+	text-align:center;
+	color:#736325;
 }
