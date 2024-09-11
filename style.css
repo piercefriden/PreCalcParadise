@@ -42,3 +42,25 @@ body{
 	text-align:center;
 	color:#736325;
 }
+.right{
+	font-family:"papyrus",fantasy;
+	font-size:150px;
+	text-align:center;
+	color:#736325;
+}
+.wrong{
+	font-family:"papyrus",fantasy;
+	font-size:150px;
+	text-align:center;
+	color:#736325;
+}
+.btnright{
+	color:#736325;
+	border: 2px solid #736325;
+	display:none;
+}
+.btnwrong{
+	color:#736325;
+	border: 2px solid #736325;
+	display:none;
+}
